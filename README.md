@@ -141,8 +141,8 @@ user.save_all_info_json("griffpatch_info.json")
 
 ## 👨‍💻 Autor
 
-**Vicente García Pastor**  
-📧 [vicente.garcia@colegiosocorro.org](mailto:vicente.garcia@colegiosocorro.org)
+**VIGARPAST_777**  
+https://scratch.mit.edu/users/VIGARPAST_777/
 
 ---
 
