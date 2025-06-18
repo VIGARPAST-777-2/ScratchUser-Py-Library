@@ -149,4 +149,3 @@ https://scratch.mit.edu/users/VIGARPAST_777/
 ## 📝 Licencia
 
 Este proyecto está licenciado bajo la **MIT License**.  
-Puedes usar, modificar y distribuir este código libremente.
