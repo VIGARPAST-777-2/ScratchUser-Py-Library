@@ -5,7 +5,7 @@ setup(
     version='0.1.0',
     packages=find_packages(),
     install_requires=['requests'],
-    author='Vicente Garcia Pastor',
+    author='VIGARPAST_777',
     author_email='vicente.garcia@colegiosocorro.org',
     description='Librería para obtener datos públicos de usuarios de Scratch',
     long_description=open('README.md', encoding='utf-8').read(),
